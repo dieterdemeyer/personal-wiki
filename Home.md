@@ -1,4 +1,3 @@
-Home
-====
+# Home
 
-My personal wiki...
+This is my personal wiki...
